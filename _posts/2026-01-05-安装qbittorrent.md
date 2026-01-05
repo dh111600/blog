@@ -1,6 +1,6 @@
 ---
 layout: blog-post
-title: "Debian安装qbittorrent-nox"
+title: "安装qbittorrent"
 date: 2026-01-05 20:00:00 +0800
 ---
 ## 一、对于Debian的发行版，可以直接使用以下命令安装qbittorrent-nox：
